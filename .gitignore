@@ -1,6 +1,0 @@
-# .gitignore
-.env
-__pycache__/
-*.pyc
-temp_audio.mp3
-temp_audio.wav
